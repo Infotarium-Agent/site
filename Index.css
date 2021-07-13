@@ -1,0 +1,102 @@
+.Top-Container {
+  background-color: #92a8d1;
+  margin: 0px 0px 0px 0px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.middle-container {
+ background-color: #deeaee;
+ padding-top: 100px;
+}
+
+.bottom-container {
+ background-color: #f7cac9;
+ margin-bottom: -30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+body {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+  margin: 0px 0px 0px 0px;
+  margin-bottom: 0px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.FwuffyBoi {
+  position: absolute;
+}
+
+.FwuffyBoi2 {
+  position: relative;
+  margin-left: 450px;
+}
+
+.contact-me {
+  background-color: #f7cac9;
+  padding-top: 100px;
+}
+
+.profile {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  left: 300px;
+  text-align: right;
+}
+
+.hello {
+  font-size: 90px;
+}
+
+.skills {
+  margin-top: 150px;
+}
+
+.GoatBoi {
+  position: absolute;
+  margin-top: 45px;
+  margin-left: 80px;
+}
+
+.skill-row-1 {
+  width: 350px;
+  position: absolute;
+  margin-bottom: 150px;
+  left: 770px;
+  text-align: left;
+}
+
+.skill-row-2 {
+  width: 350px;
+  margin-bottom: 150px;
+  left: 350px;
+  position: relative;
+  text-align: right;
+}
+
+.skilltext {
+  font-size: 90px;
+  margin-bottom: -30px;
+}
+
+.ProfileBack {
+    background-color: aqua;
+    margin-top: -100px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    z-index: 1;
+
+}
+
+.Copy {
+  padding-bottom: 10px;
+}
